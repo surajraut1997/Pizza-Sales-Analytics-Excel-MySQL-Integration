@@ -1,5 +1,4 @@
-# Pizza-Sales-Report
-Pizza Sales Analytics - Excel Dashboard with MySQL Integration.
+# Pizza Sales Analytics - Excel Dashboard with MySQL Integration
 Project Summary - 
 Pizza Sales Analytics - Excel Dashboard with MySQL Integration
 This project involves the analysis and visualization of pizza sales data for the year 2015. The data is stored in a MySQL database, and MySQL queries are used to extract and manipulate the data. The project focuses on key performance indicators (KPIs) and employs various charts and visualizations in Excel to gain insights into sales trends, customer preferences, and revenue generation. The goal is to provide actionable insights to optimize sales strategies and improve overall business performance.
